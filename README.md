@@ -86,7 +86,3 @@ C:\Program Files\NetLogo 6.3.0\models\Sample Models\Biology\Wolf Sheep Predation
 
 - **Діалогове вікно**:  
   ![Діалог](dialog.png)  
-
---- 
-
-Теперь все изображения, упомянутые в вашем тексте, на своём месте.
